@@ -2,6 +2,6 @@
 
 Computational notebook for regenerating modeling figures
 
-###Dependancies
+### Dependancies
 ODElib: https://github.com/SEpapoulis/ODElib
 python >=3.7
